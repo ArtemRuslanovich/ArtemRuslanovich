@@ -1,4 +1,4 @@
-# Try copilot btw 
+# Tried copilot btw
 
 # ↓
 
