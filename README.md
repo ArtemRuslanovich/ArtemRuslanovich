@@ -1,10 +1,6 @@
-# Tried copilot btw
-
-# ↓
-
 ## About Me
 
-I'm a Software Engineer passionate about building robust and scalable solutions. My expertise spans backend development, APIs, automation, data processing, and cloud-native architectures.
+Hell yeah i can create u one-page site and know about excel and powerpoint :finnadie: 💅
 
 ---
 
