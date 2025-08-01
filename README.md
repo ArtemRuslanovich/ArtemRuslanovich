@@ -1,10 +1,8 @@
-## About Me
-
-Hell yeah i can create u one-page site and know about excel and powerpoint :finnadie: 💅
+## Hell yeah i can create u one-page site and know about excel and powerpoint :finnadie: 💅
 
 ---
 
-## Core Skills & Technologies
+## Core
 
 #### **Back**
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
