@@ -48,6 +48,10 @@
 [![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)](https://matplotlib.org/)
 
+
+# Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=ArtemRuslanovich&theme=dark&hide_border=false)<br/>
+
 ---
 
 
