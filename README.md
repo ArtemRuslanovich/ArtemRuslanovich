@@ -2,7 +2,7 @@
 
 ---
 
-## Core
+## Use
 
 #### **Back**
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
@@ -13,11 +13,13 @@
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
-
 [![REST API](https://img.shields.io/badge/REST-FF5733?style=for-the-badge&logo=rest&logoColor=white)](https://en.wikipedia.org/wiki/REST)
 [![Microservices](https://img.shields.io/badge/Microservices-009688?style=for-the-badge&logo=microservices&logoColor=white)](https://microservices.io/)
+
+#### **DB**
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
 
 
 #### **Front**
