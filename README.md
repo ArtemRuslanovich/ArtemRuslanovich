@@ -15,8 +15,6 @@
 
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 
-[![REST API](https://img.shields.io/badge/REST-FF5733?style=for-the-badge&logo=rest&logoColor=white)](https://en.wikipedia.org/wiki/REST)
-[![Microservices](https://img.shields.io/badge/Microservices-009688?style=for-the-badge&logo=microservices&logoColor=white)](https://microservices.io/)
 
 #### **DB**
 
